@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/daniilryndyk1.github.io/static/css/main.3c79a11e.css",
-    "main.js": "/daniilryndyk1.github.io/static/js/main.2d151395.js",
-    "index.html": "/daniilryndyk1.github.io/index.html",
-    "main.3c79a11e.css.map": "/daniilryndyk1.github.io/static/css/main.3c79a11e.css.map",
-    "main.2d151395.js.map": "/daniilryndyk1.github.io/static/js/main.2d151395.js.map"
+    "main.css": "/testtest/static/css/main.3c79a11e.css",
+    "main.js": "/testtest/static/js/main.2d151395.js",
+    "index.html": "/testtest/index.html",
+    "main.3c79a11e.css.map": "/testtest/static/css/main.3c79a11e.css.map",
+    "main.2d151395.js.map": "/testtest/static/js/main.2d151395.js.map"
   },
   "entrypoints": [
     "static/css/main.3c79a11e.css",
